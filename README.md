@@ -11,7 +11,7 @@
 ### Run the project
 
 1. Open your terminal. copy and paste the codes below
-2. `git clone react-with-typescript`
+2. `git clone https://github.com/beatriz-dadalto/react-with-typescript.git`
 3. `cd react-with-typescript`
 4. `npm install`
 5. `npm run start`
